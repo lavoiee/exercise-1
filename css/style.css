@@ -5,18 +5,18 @@
 body{
     color: white;
 }
-footer{
-    display: flex;
-    flex-direction: row;
-    background-color: #29516D;
-    height: 20vmax;
-}
+/*--------------Header/Navigation---------------*/
 header{
     display: flex;
     flex-direction: row;
     background-color: #29516D;
     height: 10vmax;
 }
+nav{
+    display: flex;
+    flex-direction: row;
+}
+/*--------------------Main----------------------*/
 main{
     display: flex;
     flex-direction: column;
@@ -38,4 +38,11 @@ section{
 .s3{
     display: flex;
     background-color: #032136;
+}
+/*-------------------Footer----------------------*/
+footer{
+    display: flex;
+    flex-direction: row;
+    background-color: #29516D;
+    height: 20vmax;
 }
