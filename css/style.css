@@ -16,6 +16,10 @@ nav{
     display: flex;
     flex-direction: row;
 }
+li .menuItem{
+    display: flex;
+    color: white;
+}
 /*--------------------Main----------------------*/
 main{
     display: flex;
