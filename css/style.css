@@ -15,11 +15,27 @@ header{
     display: flex;
     flex-direction: row;
     background-color: #29516D;
-    height: 20vmax;
+    height: 10vmax;
 }
 main{
     display: flex;
     flex-direction: column;
+    height: 140rem;
+}
+section{
+    display: flex;
+    flex-direction: row;
+    height: 70rem;
+}
+.s1{
+    display: flex;
     background-color: #032136;
-    height: 60vmax;
+}
+.s2{
+    display: flex;
+    background-color: #032136;
+}
+.s3{
+    display: flex;
+    background-color: #032136;
 }
