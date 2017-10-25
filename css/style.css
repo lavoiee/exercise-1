@@ -3,6 +3,23 @@
 }
 
 body{
-    background-color: #032136;
     color: white;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    background-color: #29516D;
+    height: 20vmax;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    background-color: #29516D;
+    height: 20vmax;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    background-color: #032136;
+    height: 60vmax;
 }
