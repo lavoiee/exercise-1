@@ -1,2 +1,8 @@
 Create Responsive menu using hamburger icon, jquery, and breakpoints.
-Don't move on until you solve this.
+Don't move on until you solve this. (Mobile first)
+
+Use linear gradients for background. (See nutcache.com)
+
+Create some artwork using Illustrator. (Tech cartoon style)
+
+Create Gulp file.
