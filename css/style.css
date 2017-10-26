@@ -3,13 +3,14 @@
 
 }
 
-body{
+@media screen and (max-width: 600px) {
 
 }
 /*--------------Header/Navigation---------------*/
 a{
     display: flex;
     text-decoration: none;
+    font-size: 100%;
     color: #EEF7FF;
     transition: color 1s;
 }
@@ -35,7 +36,6 @@ header{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    font-size: 1.5rem!important;
     margin-left: 2%;
     margin-top: auto;
     margin-bottom: auto;

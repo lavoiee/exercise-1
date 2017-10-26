@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42ad9b23-923f-4ed4-830a-6234d7d762f4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/freemium.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/premium.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +24,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="252">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -31,9 +34,11 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="168">
+              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,8 +46,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            <state relative-caret-position="105">
+              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="freemium.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/freemium.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="62" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="premium.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/premium.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -57,7 +82,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/fremium.html" />
+        <option value="$PROJECT_DIR$/premium.html" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/css/responsiveMenu.css" />
+        <option value="$PROJECT_DIR$/responsiveMenu.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -102,6 +131,11 @@
             <path>
               <item name="web" type="b2602c69:ProjectViewProjectNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web" type="b2602c69:ProjectViewProjectNode" />
@@ -152,7 +186,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508951367059</updated>
-      <workItem from="1508951368423" duration="18392000" />
+      <workItem from="1508951368423" duration="21565000" />
     </task>
     <task id="LOCAL-00001" summary="Removed tether. It is no longer supported. Popper replaced it in Bootstrap 4 beta">
       <created>1508956738462</created>
@@ -172,7 +206,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18392000" />
+    <option name="totallyTimeSpent" value="21565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -240,26 +274,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/freemium.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="62" lean-forward="false" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/premium.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsiveMenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="809">
+          <caret line="50" column="1" lean-forward="false" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responsiveMenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="252">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        <state relative-caret-position="105">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding />
         </state>
       </provider>
